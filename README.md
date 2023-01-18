@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi👋
+-  I'm a junior developer doing my best to enter the mobile app market by studying and making projects.
+-  I'm also starting college this year to have a wider knowledge about programming.
+-  The projects that best sum up my current level on React-Native are **tikfollows** and **ytmusicclone**.
 <!--
 **felipeosouza/felipeosouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
