@@ -1,6 +1,6 @@
 ### Hi👋
 -  I'm a mobile developer doing my best to enter the mobile app market by studying and making projects.
--  I'm also starting college this year to have a wider knowledge about programming.
+-  I'm also starting college this year to widen knowledge.
 -  The projects that best sum up my current level on React Native are **tikfollows** and **ytmusicclone**.
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeosouza&theme=radical)
